@@ -24,12 +24,12 @@ Download (clone, fork or download) the repository</li>
 <li style="box-sizing: border-box; margin-top: 0.25em;">Modify the data and make <strong>a new geospatial visualizations</strong> based on
 <ol>
 <li style="box-sizing: border-box; margin-top: 0.25em;">Color code each town by Ratio of Population in 2010 [POP2010] over the Area in SQ Miles [SUM_SQUARE in features.properties] (10 points)</li>
-<li style="box-sizing: border-box; margin-top: 0.25em;">Add interaction (mouse enter/mouse leave) change color for each town. (20/100 points)</li>
+<li style="box-sizing: border-box; margin-top: 0.25em;">Add interaction (mouse enter/mouse leave) change color for each town. (10/50 points)</li>
 <li style="box-sizing: border-box; margin-top: 0.25em;">Add a DIV element (HTLM) to the upper right corner of the page to show all data for each Town<br>
-(L1: County Name/ Town Name, L2:County Gini index in 2010, L3:Town Area in SUM_SQUARE, L4:Town population, L5: Population over area SUM_SQUARE) when the mouse enters the town. (20/100 Points)&nbsp;</li>
-<li style="box-sizing: border-box; margin-top: 0.25em;">Add Title of the Assignment to the Top Center of the page (H1) and Your name below it (H3) make sure to style the page, and <a href="https://www.w3schools.com/css/css_align.asp">center SVG using a div</a> of the page as well (10/100 Points)</li>
+(L1: County Name/ Town Name, L2:County Gini index in 2010, L3:Town Area in SUM_SQUARE, L4:Town population, L5: Population over area SUM_SQUARE) when the mouse enters the town. (10/50 Points)&nbsp;</li>
+<li style="box-sizing: border-box; margin-top: 0.25em;">Add Title of the Assignment to the Top Center of the page (H1) and Your name below it (H3) make sure to style the page, and <a href="https://www.w3schools.com/css/css_align.asp">center SVG using a div</a> of the page as well (5/50 Points)</li>
 </ol>
-<li style="box-sizing: border-box; margin-top: 0.25em;">Make a GitHub Webpage of the visualization (10/100 Points)</li>
+<li style="box-sizing: border-box; margin-top: 0.25em;">Make a GitHub Webpage of the visualization (5/50 Points)</li>
 </ol></div>
 
 
