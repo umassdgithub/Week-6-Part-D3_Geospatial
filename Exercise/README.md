@@ -1,4 +1,4 @@
-# Part 1 of Major Assignment 3 (Part 2 with the details and due date will be on week 8 GitHub repo
+# Part 1 of Major Assignment 3 (Part 2 is in myCourses)
 <br>
 
 <h2 style="box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.5em; font-weight: 600; line-height: 1.25; padding-bottom: 0.3em; color: #24292f; font-family: -apple-system, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; background-color: #ffffff;"><a id="user-content-objectives" class="anchor" aria-hidden="true" href="https://github.com/umassdgithub/week-6-Activity#objectives" style="box-sizing: border-box; color: var(--color-accent-fg); text-decoration-line: none; float: left; padding-right: 4px; margin-left: -20px; line-height: 1;"><br /><br />&nbsp;</a>Objectives:</h2>
